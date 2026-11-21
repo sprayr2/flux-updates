@@ -1,4 +1,5 @@
 [ Team Fortress 2 ]
+# Nov 20
 * Improved optimization
 * Started reworking projectile aim and prediction
 
