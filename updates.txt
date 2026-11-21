@@ -3,6 +3,28 @@
 * Improved optimization
 * Started reworking projectile aim and prediction
 
+# Oct 25
+* Add Threading
+* Thread Hitscan & Projectile Aim
+* Menu Remake
+* Improve projectile aim
+* Fix special characters not showing up on esp/menu
+* More
+
+# Oct 16
+* Redesign World Modifiers
+* Add more world modifiers
+* Redesign color picker
+* Add Backtrack to crosshair
+* Add Friends/Party only to teammate esp
+* Improve Engine Prediction
+* Improve Projectile Aim
+* Improve Melee Aimbot
+* Improve Backtrack
+* Rewrite Crithack
+* Improve Hitchance
+* Improve Melee Backtrack
+
 
 
 [ Counter-Strike ]
