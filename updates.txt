@@ -1,0 +1,15 @@
+[ Team Fortress 2 ]
+* Improved optimization
+* Started reworking projectile aim and prediction
+
+
+
+[ Counter-Strike ]
+
+
+
+[ Counter-Strike: Source ]
+
+
+
+[ Deadlock ]
