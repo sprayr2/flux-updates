@@ -5,7 +5,7 @@
 * Added the ability to rename binds
 * Added "On right click" option to auto rocket jump and auto FaN
 * Added the ability to set separate colors to each building based on the team
-* Made auto backstab tooltip more descriptive
+* Made anti backstab tooltip more descriptive
 * Fixed an issue where the game crashed when using symbols that windows cannot recognize in config names
 * Fixed exploit flag from flagging legit players
 
